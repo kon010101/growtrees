@@ -1,0 +1,37 @@
+.counterItem__button {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 8em;
+  width: 30em;
+  border-radius: 1em;
+  cursor: pointer;
+}
+
+.counterItem__button:active {
+  opacity: 0.7;
+}
+
+.counterItem__button:hover {
+  background-color: yellowgreen;
+}
+
+.counterItem__price {
+  width: 2em;
+  height: 2em;
+  border: 2px black solid;
+  font-size: 2em;
+  box-shadow: 4px 4px 4px;
+}
+
+.counterItem__buy-item-text {
+  font-size: 2em;
+}
+
+.counterItem__buy-item-counter {
+  font-size: 2em;
+  border: 2px black solid;
+  width: 3em;
+  height: 2em;
+}

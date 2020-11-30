@@ -1,0 +1,10 @@
+.clicktree__img {
+  width: 20vh;
+  margin-top: 20vh;
+  cursor: pointer;
+}
+
+.clicktree__img:active {
+  padding: 10px;
+  opacity: 0.8;
+}

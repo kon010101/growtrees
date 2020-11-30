@@ -1,0 +1,18 @@
+.panel {
+  background-color: yellowgreen;
+  height: 100vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.panel__clickCounter {
+  background-color: grey;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 28px;
+  position: absolute;
+  width: 100%;
+}

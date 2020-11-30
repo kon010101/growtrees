@@ -1,0 +1,6 @@
+.board {
+  background-color: teal;
+  width: 50vw;
+  height: 100vh;
+  border-left: gray 8px solid;
+}
